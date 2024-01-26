@@ -1,0 +1,68 @@
+p {
+    color: white;
+  }
+
+li {
+    color: white;
+}
+
+a {
+    color: rgb(0, 225, 255)
+}
+
+h1 {
+    color: white
+}
+
+h2 {
+    color: white
+}
+
+html {
+    background-color: #260C19;
+}
+
+html {
+    font-size: 10px; 
+    font-family: 'Playfair Display', serif;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+  
+p,
+li,
+a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #05321A;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+ 
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: white;
+    text-shadow: 3px 3px 1px black;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+  }
+  
